@@ -1,7 +1,7 @@
 # FiltersPopup
 How to the FiltersPopup?
 
-Gradle Project:
+# Gradle Project:
 
 Step 1. Add the JitPack repository to your build file
 
