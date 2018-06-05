@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="popupbtn">
+        <!-- 正常状态下的背景 -->
+        <attr name="normalBg" format="reference" />
+        <!-- 点击状态下的背景 -->
+        <attr name="pressBg" format="reference" />
+        <!-- 正常状态下的图标 -->
+        <attr name="normalIcon" format="reference" />
+        <!-- 点击状态下的图标 -->
+        <attr name="pressIcon" format="reference" />f
+
+    </declare-styleable>
+
+</resources>

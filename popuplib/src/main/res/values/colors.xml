@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal">#ffffff</color>
+    <color name="press">#59aacf</color>
+    <color name="focus">#999999</color>
+    <color name="grey">#333333</color>
+    <color name="orange">#ea5d12</color>
+</resources>

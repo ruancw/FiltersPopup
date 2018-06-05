@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll"
+        android:orientation="vertical">
+        <GridLayout
+            android:id="@+id/grid_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+        </GridLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:id="@+id/btn_confirm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="确定"
+                android:textColor="@color/normal"
+                android:background="@drawable/shape_circle_bg"
+                android:layout_marginBottom="@dimen/dp_10"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
